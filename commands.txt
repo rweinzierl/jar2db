@@ -1,0 +1,1 @@
+mvn -Djar2db.out=target/.tmp.db -e rw.jar2db:jar2db-maven-plugin:1.0.0:jar2db
